@@ -1,9 +1,3 @@
-/*
-Nama : Handika Nur Ichsan
-NIM :230401011003
-Kelas : IF 102
-Nama Mata Kuliah : Algoritma dan Pemrograman
-*/
 
 #include <iostream>
 #include <iomanip>
@@ -59,3 +53,4 @@ int main() {
 
     return 0;
 }
+
